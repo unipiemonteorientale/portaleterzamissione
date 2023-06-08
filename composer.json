@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mobiledetect/mobiledetectlib": "^3.74",
+        "klein/klein": "^2.1",
+        "adodb/adodb-php": "^5.22",
+        "smarty/smarty": "^4.3",
+        "mpdf/mpdf": "^8.1",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
